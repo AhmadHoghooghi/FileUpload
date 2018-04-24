@@ -13,7 +13,7 @@
 - [x] Test big file upload
 - [x] Add Test Using jetty embeded server run by 'maven install'
 - [x] Add Logging
-- [ ] Test concurrent file read/write on server
+- [ ] Test concurrent file receive/write on server
 - [x] Comment code
 - [x] Add Uploaded file address to response
 - [x] Externalize upload path to properties file
