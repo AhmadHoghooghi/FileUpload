@@ -5,7 +5,7 @@
   * MediaType: application/octet-stream
     
 * [Project3](https://github.com/AhmadHoghooghi/FileUpload/tree/master/file-upload-java-client/upload-client): client for file upload to webservcie [**Java**] project
-* Project4: client for file upload to webservice [**Python**] project <<<TODO
+* [Project4](https://github.com/AhmadHoghooghi/FileUpload/tree/master/file-upload-webservice-python-client): client for file upload to webservice [**Python**] file
 
 
 
@@ -15,3 +15,4 @@
 - [ ] Add Logging
 - [ ] Test concurrent file read/write on server
 - [ ] Add documentation and comment code
+- [ ] Add Uploaded file address to response
