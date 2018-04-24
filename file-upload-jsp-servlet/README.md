@@ -22,5 +22,5 @@ This application uses maximum 600MB of RAM in manual tests for uploading a 10GB 
 
 ![RAM usage profile](README-images/ram-usage-prifile.jpg)
 
-See [Upload Servelt](https://github.com/AhmadHoghooghi/FileUpload/blob/master/src/main/java/com/rhotiz/upload/controller/Upload.java) file for more informaion.
+See [Upload Servelt](https://github.com/AhmadHoghooghi/FileUpload/blob/master/file-upload-jsp-servlet/src/java/com/rhotiz/upload/controller/Upload.java) file for more informaion.
 
