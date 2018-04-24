@@ -14,6 +14,7 @@
 - [x] Add Test Using jetty embeded server run by 'maven install'
 - [x] Add Logging
 - [ ] Test concurrent file read/write on server
-- [ ] Add documentation and comment code
-- [ ] Add Uploaded file address to response
-- [ ] Make Upload place configurable with a property file
+- [x] Comment code
+- [x] Add Uploaded file address to response
+- [x] Externalize upload path to properties file
+- [ ] stop getting path from properties file on each request
