@@ -12,7 +12,8 @@
  Task List:
 - [x] Test big file upload
 - [x] Add Test Using jetty embeded server run by 'maven install'
-- [ ] Add Logging
+- [x] Add Logging
 - [ ] Test concurrent file read/write on server
 - [ ] Add documentation and comment code
 - [ ] Add Uploaded file address to response
+- [ ] Make Upload place configurable with a property file
