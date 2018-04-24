@@ -1,5 +1,5 @@
 * [Project1](https://github.com/AhmadHoghooghi/FileUpload/tree/master/file-upload-jsp-servlet): file upload webapplication with JSP/Servlet
-  * MediaType: form-data
+  * MediaType: multipart/form-data
 * [Project2](https://github.com/AhmadHoghooghi/FileUpload/tree/master/file-upload-webservice/upload-webservice): file upload webservice
 
   * MediaType: application/octet-stream
