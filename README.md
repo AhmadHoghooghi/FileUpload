@@ -17,4 +17,9 @@
 - [x] Comment code
 - [x] Add Uploaded file address to response
 - [x] Externalize upload path to properties file
-- [ ] stop getting path from properties file on each request
+- [x] stop getting path from properties file on each request// retrieveSavePath() is moved to UploadApplication
+- [ ] change response type to JSON
+- [ ] remove dependency on jersey-media-multipart
+- [ ] Add test for scenario: absense of file name
+- [ ] Add test for scenario: presence of file on savePath (owerwrite)
+- [ ] Add test for scenario: absense of savePath directory mentioned in savePath.properties in file system

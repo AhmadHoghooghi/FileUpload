@@ -28,7 +28,7 @@ public class UploadFileServiceTest {
 		String SERVICE_URI = "http://localhost:9090/upload-webservice/bigfileupload";
 		WebTarget target = client.target(SERVICE_URI); 
 		InputStream fileInStream = new FileInputStream(file);
-		String contentDisposition = "attachment;";// filename=\"" + file.getName() + "\"";
+		String contentDisposition = "attachment;";
 		System.out.println("sending: " + file.length() + " bytes...");
 		Response response = target
 		            .request(MediaType.APPLICATION_OCTET_STREAM_TYPE)
