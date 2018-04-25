@@ -3,9 +3,14 @@
 * [Project2](https://github.com/AhmadHoghooghi/FileUpload/tree/master/file-upload-webservice/upload-webservice): file upload webservice
 
   * MediaType: application/octet-stream
+  * Jersey implementation for JAX-RS 2
+  * Jetty embeded server for tests
+  * JUnit 4.12
     
 * [Project3](https://github.com/AhmadHoghooghi/FileUpload/tree/master/file-upload-java-client/upload-client): client for file upload to webservcie [**Java**] project
 * [Project4](https://github.com/AhmadHoghooghi/FileUpload/tree/master/file-upload-webservice-python-client): client for file upload to webservice [**Python**] file
+
+  * Pyton 2.7
 
 
 
